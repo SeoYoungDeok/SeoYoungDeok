@@ -25,6 +25,11 @@
   <img height="25" src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/>
 </a>
 
+**Portfolio**  
+<a href="https://dashing-rise-cc0.notion.site/Portfolio-f3fc4e73374a435db358824df187e0f1?pvs=4" target="_blank">
+  <img height="25" src="https://img.shields.io/badge/Notion-FFFFFF?style=flat-square&logo=Notion&logoColor=black"/>
+</a>
+
 **Blog**  
 <a href="https://blog.naver.com/whitegreen_" target="_blank">
   <img height="20" src="https://img.shields.io/badge/Naver-03c75a?style=flat-square&logo=Naver&logoColor=white"/>
